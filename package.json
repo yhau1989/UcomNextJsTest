@@ -1,0 +1,26 @@
+{
+  "name": "ucomnextjstest",
+  "version": "1.0.0",
+  "description": "Test app para consumir Api (AdonisJS)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhau1989/UcomNextJsTest.git"
+  },
+  "author": "Samuel Pilay Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhau1989/UcomNextJsTest/issues"
+  },
+  "homepage": "https://github.com/yhau1989/UcomNextJsTest#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
